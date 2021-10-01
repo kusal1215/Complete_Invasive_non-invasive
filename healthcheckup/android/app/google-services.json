@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "745310575614",
+    "firebase_url": "https://phone-usage-3141e-default-rtdb.firebaseio.com",
+    "project_id": "phone-usage-3141e",
+    "storage_bucket": "phone-usage-3141e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745310575614:android:7963c6e63ce984a92d3eaf",
+        "android_client_info": {
+          "package_name": "com.example.phoneusage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745310575614-i5fc08nm5cp5cpm6rl1qsq426afgls4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRw9pUvJKpLQ0o6DBHSUqbMDCxkKZ9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745310575614-i5fc08nm5cp5cpm6rl1qsq426afgls4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745310575614:android:bea2ae034df555422d3eaf",
+        "android_client_info": {
+          "package_name": "com.xhbtech.healthcheckup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745310575614-i5fc08nm5cp5cpm6rl1qsq426afgls4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRw9pUvJKpLQ0o6DBHSUqbMDCxkKZ9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745310575614-i5fc08nm5cp5cpm6rl1qsq426afgls4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

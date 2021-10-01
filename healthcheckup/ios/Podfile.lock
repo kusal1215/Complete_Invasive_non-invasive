@@ -1,0 +1,22 @@
+PODS:
+  - fit_kit (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - fit_kit (from `.symlinks/plugins/fit_kit/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  fit_kit:
+    :path: ".symlinks/plugins/fit_kit/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  fit_kit: 7643191161673bcd32863ae3f10baed6ce55c7c0
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
